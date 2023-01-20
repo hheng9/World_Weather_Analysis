@@ -9,8 +9,5 @@
 ### We can arrange the data to pinpoint and view specific cities within the same country and attach to a travel itinerary map as seen below.
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/118647523/213620397-b34bdfa6-1f02-46f5-8c60-19135b1649ba.png)
 
-![WeatherPy_travel_map1](https://user-images.githubusercontent.com/118647523/213620408-31b6fa51-5af8-4daf-bdc5-2d5a181e2ba6.png)
-
-
 ## Summary 
-###
+### API calls allow data to be filtered and displayed by various categories as needed. We can also size the images, categorize, label, and color code to our liking. The JSON function is compile with more information than needed which is why we lock in to the requested data through the python coding performed. 
